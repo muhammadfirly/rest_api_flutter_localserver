@@ -73,7 +73,7 @@ Ikuti langkah-langkah di bawah ini untuk menjalankan server API lokal Anda:
 4.  **Jalankan Server:**
     Setelah semua dependensi terinstal, Anda bisa memulai server dengan:
     ```bash
-    node src/index.js
+    npm start
     ```
     Anda akan melihat pesan di konsol yang menunjukkan server telah berjalan, biasanya pada `http://localhost:3000` (atau port lain yang Anda konfigurasi di `index.js`).
 
